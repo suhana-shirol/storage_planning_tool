@@ -1,0 +1,7 @@
+location_id,location,floor_space,current_storage_floor_space,location_priority,travel_time,reserve_allowed
+1,BS30,7000,2492,1,0,0
+2,BS32,6300,1752,1,0,0
+3,WH50,5000,1835,1,0,0
+4,LC02,69970,3392,2,6,1
+5,WH01,6000,2111,3,16.9,1
+6,DUMMY,10000000,10000000,3,16.9,1

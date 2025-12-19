@@ -1,0 +1,10 @@
+{
+    "_comment": "Located at storageplanningtool/schemas/cost_center_schema.json - schema for consumption to order", 
+    "version": "1.0", 
+    "description": "Expected schema for cost_center preprocessing script", 
+    "required_cols": ["Cost Center", "Department"],
+    "dtypes" : {
+        "Cost Center" : "string",
+        "Department" : "string"
+    }
+}

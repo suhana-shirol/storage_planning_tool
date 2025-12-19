@@ -1,0 +1,6 @@
+﻿type_id,type,sqft_req,buy_cost,buy_invest,reloc_cost,reloc_invest,cubic_capacity_per_unit
+1,CABINET,4.167,2600,346.6,22,22,8.68
+2,MEZZANINE,550,700000,4666.6,300000,300000,5500
+3,SHELF,4.5,1500,150,1500,5,26.25
+4,REMSTAR,100,125000,50000,125000,125000,900
+5,RACK,31.5,1780,18.6,140,140,661.56

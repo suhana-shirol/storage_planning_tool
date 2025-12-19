@@ -1,0 +1,13 @@
+{
+    "_comment": "Located at storageplanningtool/schemas/mc46_schema.json - schema for MC46 (SKU list upload)", 
+    "version": "1.0", 
+    "description": "Expected schema for MC46 (SKU List) preprocessing script", 
+    "required_cols": ["Material", "Years", "MRP Controller", "Ind. Std Desc.", "Priority"],
+    "dtypes": {
+        "Material": "string",
+        "Years": "Float64",
+        "MRP Controller": "Int64",
+        "Ind. Std Desc.": "string",
+        "Priority": "string"
+    }
+}

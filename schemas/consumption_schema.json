@@ -1,0 +1,9 @@
+{
+    "_comment": "Located at storageplanningtool/schemas/consumption_schema.json - schema for consumption to order", 
+    "version": "1.0", 
+    "description": "Expected schema for consumption preprocessing script", 
+    "required_cols": ["Material", "Movement Type", "Cost Center", "Order", "Order Type"],
+    "dtypes" : {
+        "Cost Center": "string"
+    }
+}

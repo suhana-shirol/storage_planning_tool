@@ -1,0 +1,6 @@
+{
+    "_comment": "Located at storageplanningtool/schemas/i_sku_type.json - schema for aggregated materials table", 
+    "version": "1.0", 
+    "description": "Expected schema for calculated i_sku_type table", 
+    "required_cols": ["category_id", "category", "type_id", "type", "size_id", "cubic_capacity_per_unit", "max_sku_per_unit", "compatible", "penalty"]
+}

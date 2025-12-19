@@ -1,0 +1,6 @@
+{
+    "_comment": "Located at storageplanningtool/schemas/i_sku_user.json - schema for aggregated materials table", 
+    "version": "1.0", 
+    "description": "Expected schema for calculated i_sku_user table", 
+    "required_cols": ["category_id", "category", "tech_id", "tech_name", "numSKU", "ld_orders_per_user", "orders_per_user"]
+}

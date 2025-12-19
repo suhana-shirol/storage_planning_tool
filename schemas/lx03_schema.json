@@ -1,0 +1,11 @@
+{
+    "_comment": "Located at storageplanningtool/schemas/mc46_schema.json - schema for LX03 (current inventory upload)", 
+    "version": "1.0", 
+    "description": "Expected schema for LX03 (Current Inventory) preprocessing script", 
+    "required_cols": ["Material", "Storage Type", "Total Stock"],
+    "dtypes": {
+        "Material": "string",
+        "Storage Type": "string",
+        "Total Stock": "Int64"
+    }
+}

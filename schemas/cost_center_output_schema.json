@@ -1,0 +1,9 @@
+{
+    "_comment": "Located at storageplanningtool/schemas/cost_center_output_schema.json - schema for input in cost_center table", 
+    "version": "1.0", 
+    "description": "Expected schema for processed cost_center to users. To be input in cost_center table", 
+    "required_cols": ["Cost Center", "ASSEMBLY", "BODY", "PAINT", "UNK"],
+    "dtypes" : {
+        "Cost Center" : "string"
+    }
+}

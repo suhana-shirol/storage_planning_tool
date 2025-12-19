@@ -1,0 +1,6 @@
+{
+    "_comment": "Located at storageplanningtool/schemas/consumption_output_schema.json - schema for processed consumption to order", 
+    "version": "1.0", 
+    "description": "Expected schema for preprocessed consumption script giving us material to movement", 
+    "required_cols": ["Material", "Priority", "line_down_orders"]
+}

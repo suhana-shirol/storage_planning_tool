@@ -1,0 +1,4 @@
+{
+  "_comment": "Located at storageplanningtool/schemas/mc46_output_schema.json - schema for MC46 (SKU list upload)",
+  "required_cols": ["Material", "Size", "Total Stock", "size_id", "storage_type"]
+}

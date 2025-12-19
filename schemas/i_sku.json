@@ -1,0 +1,6 @@
+{
+    "_comment": "Located at storageplanningtool/schemas/i_sku.json - schema for aggregated materials table", 
+    "version": "1.0", 
+    "description": "Expected schema for calculated i_sku table", 
+    "required_cols": ["category_id", "category", "priority", "movement", "size", "total_stock", "total_orders", "line_down_orders", "size_id", "min_vol", "SKU_cubic_ft"]
+}
